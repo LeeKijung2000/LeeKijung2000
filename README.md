@@ -8,7 +8,9 @@
 ---
 
 📜 **프로젝트**
-G-STAR 2023(국제게임전시회 2023) 게임전시
+
+G-STAR 2023(국제게임전시회 2023) 게임전시 [소식](https://www.shoseo.ac.kr/faculty/html/game/newsView.asp?idx=323453&pageNo=2&searchKeyword=)
+[작품](https://www.shoseo.ac.kr/faculty/html/game/gallery2View.asp?idx=323654&pageNo=3&searchKeyword=&etc1=MK&etc2=)
 
 ---
 
