@@ -1,5 +1,6 @@
 ## 👋 자바 백엔드를 공부중입니다
 - 2000.01.31 男
+![4309a71cca195bcc35a75dc0fc738df2_res](https://github.com/user-attachments/assets/61d67938-1486-48cd-9c21-be8906e51796)
 
 ---
 
