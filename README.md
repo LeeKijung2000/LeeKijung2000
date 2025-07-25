@@ -21,6 +21,8 @@
 🎮 [작품 보기](https://www.shoseo.ac.kr/faculty/html/game/gallery2View.asp?idx=323654&pageNo=3&searchKeyword=&etc1=MK&etc2=)
 
 ---
+## 공부기록 티스토리
+https://krleekijung.tistory.com/
 
 ## ⚛️ Frontend
 
