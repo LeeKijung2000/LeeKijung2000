@@ -23,7 +23,7 @@
 
 **KH정보교육원 세미프로젝트**
 👉 [사이트 보기](https://moida-spring-boot.onrender.com)
-🎮 [깃허브 주소]()
+🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Semi-project_MOIDA)
 
 ---
 ## 공부기록 티스토리
