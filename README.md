@@ -21,6 +21,10 @@
 👉 [소식 보기](https://www.shoseo.ac.kr/faculty/html/game/newsView.asp?idx=323453&pageNo=2&searchKeyword=)
 🎮 [작품 보기](https://www.shoseo.ac.kr/faculty/html/game/gallery2View.asp?idx=323654&pageNo=3&searchKeyword=&etc1=MK&etc2=)
 
+**KH정보교육원 세미프로젝트**
+👉 [사이트 보기]([https://www.shoseo.ac.kr/faculty/html/game/newsView.asp?idx=323453&pageNo=2&searchKeyword=](https://moida-spring-boot.onrender.com/))
+🎮 [깃허브 주소]()
+
 ---
 ## 공부기록 티스토리
 https://krleekijung.tistory.com/
