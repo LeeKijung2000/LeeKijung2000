@@ -25,6 +25,9 @@
 👉 [사이트 보기](https://moida-spring-boot.onrender.com)
 🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Semi-project_MOIDA)
 
+**KH정보교육원 파이널프로젝트**
+🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Final-project)
+
 ---
 ## 공부기록 티스토리
 https://krleekijung.tistory.com/
