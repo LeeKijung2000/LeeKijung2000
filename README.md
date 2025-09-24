@@ -25,6 +25,7 @@ https://krleekijung.tistory.com/
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
@@ -34,7 +35,6 @@ https://krleekijung.tistory.com/
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-6A5ACD?style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![JSTL](https://img.shields.io/badge/JSTL-990000?style=for-the-badge&logo=apache&logoColor=white)
 ![EL](https://img.shields.io/badge/EL-444444?style=for-the-badge&logo=java&logoColor=white)
