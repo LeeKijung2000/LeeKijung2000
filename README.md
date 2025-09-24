@@ -14,16 +14,6 @@
 ### 🎓 수료
 - (2025.04 ~ 2025.09) **KH정보교육원**  React & Spring 활용 자바(Java) 개발자 양성과정 수료
 
----
-
-### 📜 프로젝트
-
-
-**KH정보교육원 세미프로젝트**
-🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Semi-project_MOIDA)
-
-**KH정보교육원 파이널프로젝트**
-🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Final-project)
 
 ---
 ## 공부기록 티스토리
