@@ -17,9 +17,6 @@
 
 ### 📜 프로젝트
 
-**G-STAR 2023 게임전시**
-👉 [소식 보기](https://www.shoseo.ac.kr/faculty/html/game/newsView.asp?idx=323453&pageNo=2&searchKeyword=)
-🎮 [작품 보기](https://www.shoseo.ac.kr/faculty/html/game/gallery2View.asp?idx=323654&pageNo=3&searchKeyword=&etc1=MK&etc2=)
 
 **KH정보교육원 세미프로젝트**
 🎮 [깃허브 주소](https://github.com/LeeKijung2000/KH-academy_Semi-project_MOIDA)
