@@ -14,10 +14,7 @@
 ### 🎓 수료
 - (2025.04 ~ 2025.09) **KH정보교육원**  React & Spring 활용 자바(Java) 개발자 양성과정 수료
 
-
 ---
-## 공부기록 티스토리
-https://krleekijung.tistory.com/
 
 ## ⚛️ Frontend
 
